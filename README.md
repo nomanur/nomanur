@@ -1,3 +1,4 @@
+![logo](https://previews.123rf.com/images/chris77ho/chris77ho1802/chris77ho180200117/96394756-glowing-green-binary-code-matrix-background-wide-banner.jpg)
 <h1 align="center">Hi 👋, I'm Nomanur Rahman</h1>
 <h3 align="center">A passionate full Stack web developer with huge love for DSA, PHP, Javascript, Typescript, Laravel, Vue, Nuxt.</h3>
 
